@@ -38,6 +38,7 @@ Banks and financial institutions receive many loan applications daily. Manual ve
 - Logistic Regression
 - Decision Tree Classifier
 - Random Forest Classifier
+- Support Vector Classifier
 
 ---
 
